@@ -6,7 +6,7 @@
   }
 
   // comparacao 2
-  if("teste" > 5 && 1) {
+  if("2" > 5 && 1) {
     echo "A comparação 2 é verdadeira <br>";
   }
 

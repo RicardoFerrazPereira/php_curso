@@ -20,13 +20,10 @@
     echo "Comparação verdadeira 4<br>";
   }
 
-  $nome = "Matheus";
-  $nomeDoSistema = "João";
+  $nome = "Farrock";
+  $nomeDoSistema = "Eddie";
 
   if($nome == $nomeDoSistema) {
     echo "O nome coincide 1<br>";
   }
-
-  if($nome == $nomeDoSistema) {
-    echo "O nome coincide 2<br>";
-  }
+  

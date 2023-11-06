@@ -4,7 +4,7 @@
     echo "5 é 5 1<br>";
   }
 
-  // op de identico
+  // op de identico - compara o valor e o tipo de dado;
   if(5 === "5") {
     echo "5 é 5 2<br>";
   }
