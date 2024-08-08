@@ -1,2 +1,2 @@
 # php_curso
-Repositório do curdo de PHP da Udemy (PHP do Zero a Maestria)
+Repositório do curso de PHP da Udemy (PHP do Zero a Maestria)
